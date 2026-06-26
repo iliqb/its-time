@@ -20,13 +20,6 @@ Whether you're waiting for a birthday, vacation, wedding, exam, launch date, or 
 
 ## 📸 Preview
 
-_Add screenshots or GIFs here_
-
-```md
-![Preview](./preview.png)
-```
-
----
 
 ## 🛠️ Technologies Used
 
